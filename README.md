@@ -1,4 +1,4 @@
-# Young Living QA Automation Project
+# Young Living QA Automation Project - Cypress
 
 ## Overview
 This project contains an automated end-to-end test for the Young Living checkout flow based on a QA Automation Assignment.
